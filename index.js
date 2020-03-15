@@ -35,5 +35,5 @@ function  increaseRankBy(n){
      children2[i].innerHTML = val;
   }
 
-  
+
 }
